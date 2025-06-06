@@ -3,15 +3,13 @@
 
 # Install :
 
-1. ```sudo apt install tesseract-ocr```
+1. ```sudo apt install tesseract-ocr libtesseract-dev -y```
 
-2. ```sudo apt install libtesseract-dev```
+2. ```git clone https://github.com/Assa228/img2flag.git```
 
-3. ```git clone https://github.com/Assa228/img2flag.git```
+3. ```cd img2flag```
 
-4. ```cd img2flag```
-
-5. ```pip install -r requirements.txt```
+4. ```pip install -r requirements.txt --break-system-packages```
 
 
 # Usage :
