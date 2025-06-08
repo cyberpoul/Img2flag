@@ -5,7 +5,7 @@
 
 1. ```sudo apt install tesseract-ocr libtesseract-dev -y```
 
-2. ```git clone https://github.com/e3xxx/img2flag.git```
+2. ```git clone https://github.com/cyberpoul/img2flag.git```
 
 3. ```cd img2flag```
 
