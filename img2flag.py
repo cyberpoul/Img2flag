@@ -1,3 +1,4 @@
+# Script OCR - Made by opscur
 import cv2
 import pytesseract
 from PIL import Image
